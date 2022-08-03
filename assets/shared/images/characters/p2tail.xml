@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="p2tail.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NewPhase2Sonic Down0000" x="0" y="0" width="557" height="673"/>
+	<SubTexture name="NewPhase2Sonic Down0001" x="557" y="0" width="554" height="628" frameX="-2" frameY="-42" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0002" x="1111" y="0" width="553" height="622" frameX="-2" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0003" x="1664" y="0" width="553" height="622" frameX="-2" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0004" x="2217" y="0" width="553" height="622" frameX="-2" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0005" x="2770" y="0" width="555" height="622" frameX="-1" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0006" x="3325" y="0" width="555" height="622" frameX="-1" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0007" x="3880" y="0" width="555" height="622" frameX="-1" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0008" x="4435" y="0" width="555" height="622" frameX="-1" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0009" x="4990" y="0" width="555" height="622" frameX="-1" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Down0010" x="5545" y="0" width="555" height="622" frameX="-1" frameY="-48" frameWidth="557" frameHeight="673"/>
+	<SubTexture name="NewPhase2Sonic Idle0000" x="6100" y="0" width="627" height="801" frameX="-5" frameY="-18" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0001" x="6727" y="0" width="627" height="801" frameX="-5" frameY="-18" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0002" x="7354" y="0" width="628" height="804" frameX="-5" frameY="-15" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0003" x="0" y="804" width="632" height="815" frameX="-4" frameY="-4" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0004" x="632" y="804" width="634" height="818" frameX="-3" frameY="-1" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0005" x="1266" y="804" width="636" height="819" frameX="-1" frameY="0" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0006" x="1902" y="804" width="636" height="818" frameX="0" frameY="-1" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0007" x="2538" y="804" width="636" height="814" frameX="0" frameY="-5" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0008" x="3174" y="804" width="633" height="804" frameX="0" frameY="-15" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0009" x="3807" y="804" width="632" height="801" frameX="0" frameY="-18" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Idle0010" x="4439" y="804" width="632" height="801" frameX="0" frameY="-18" frameWidth="637" frameHeight="819"/>
+	<SubTexture name="NewPhase2Sonic Left0000" x="5071" y="804" width="956" height="643" frameX="0" frameY="-3" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0001" x="6027" y="804" width="910" height="639" frameX="-5" frameY="-8" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0002" x="6937" y="804" width="906" height="638" frameX="-6" frameY="-8" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0003" x="0" y="1623" width="905" height="639" frameX="-7" frameY="-8" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0004" x="905" y="1623" width="907" height="640" frameX="-7" frameY="-6" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0005" x="1812" y="1623" width="909" height="643" frameX="-7" frameY="-3" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0006" x="2721" y="1623" width="910" height="645" frameX="-8" frameY="-1" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0007" x="3631" y="1623" width="910" height="646" frameX="-8" frameY="0" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0008" x="4541" y="1623" width="911" height="646" frameX="-8" frameY="0" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0009" x="5452" y="1623" width="911" height="646" frameX="-8" frameY="0" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Left0010" x="6363" y="1623" width="911" height="646" frameX="-8" frameY="0" frameWidth="956" frameHeight="647"/>
+	<SubTexture name="NewPhase2Sonic Right0000" x="7274" y="1623" width="685" height="609" frameX="0" frameY="-5" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0001" x="0" y="2269" width="739" height="614" frameX="0" frameY="0" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0002" x="739" y="2269" width="743" height="614" frameX="0" frameY="0" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0003" x="1482" y="2269" width="744" height="614"/>
+	<SubTexture name="NewPhase2Sonic Right0004" x="2226" y="2269" width="744" height="614"/>
+	<SubTexture name="NewPhase2Sonic Right0005" x="2970" y="2269" width="743" height="614" frameX="0" frameY="0" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0006" x="3713" y="2269" width="742" height="613" frameX="0" frameY="-1" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0007" x="4455" y="2269" width="742" height="613" frameX="0" frameY="-1" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0008" x="5197" y="2269" width="742" height="613" frameX="0" frameY="-1" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0009" x="5939" y="2269" width="742" height="613" frameX="0" frameY="-1" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Right0010" x="6681" y="2269" width="742" height="613" frameX="0" frameY="-1" frameWidth="744" frameHeight="614"/>
+	<SubTexture name="NewPhase2Sonic Up0000" x="7423" y="2269" width="577" height="779" frameX="-5" frameY="0" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0001" x="0" y="3048" width="558" height="782" frameX="-2" frameY="0" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0002" x="558" y="3048" width="558" height="782" frameX="-2" frameY="0" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0003" x="1116" y="3048" width="559" height="782" frameX="-1" frameY="0" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0004" x="1675" y="3048" width="559" height="782" frameX="-1" frameY="0" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0005" x="2234" y="3048" width="560" height="781" frameX="-1" frameY="-1" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0006" x="2794" y="3048" width="565" height="779" frameX="0" frameY="-3" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0007" x="3359" y="3048" width="567" height="777" frameX="0" frameY="-4" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0008" x="3926" y="3048" width="568" height="777" frameX="0" frameY="-4" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0009" x="4494" y="3048" width="568" height="777" frameX="0" frameY="-4" frameWidth="582" frameHeight="782"/>
+	<SubTexture name="NewPhase2Sonic Up0010" x="5062" y="3048" width="569" height="776" frameX="0" frameY="-5" frameWidth="582" frameHeight="782"/>
+</TextureAtlas>
