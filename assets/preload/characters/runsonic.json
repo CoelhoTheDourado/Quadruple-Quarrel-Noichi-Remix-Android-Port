@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				-242
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-207
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NewPhase2Sonic Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NewPhase2Sonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-290
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NewPhase2Sonic Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh instance ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/P2Sonic_Assets",
+	"position": [
+		-50,
+		100
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-270,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

@@ -2,107 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
-				4,
-				-13
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-30,
-				-80
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-69,
-				47
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-68,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				7,
-				29
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
-		},
-		{
-			"offsets": [
-				-15,
-				-29
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF NOTE DOWN MISS"
-		},
-		{
-			"offsets": [
-				-56,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
-		},
-		{
-			"offsets": [
-				-64,
-				32
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
 				-3,
-				5
+				16
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				17,
-				23
+				15,
+				18
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				40,
-				-2
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				39,
-				95
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -178,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				444,
-				404
+				294,
+				267
 			],
 			"loop": false,
 			"fps": 24,
@@ -190,20 +91,136 @@
 		{
 			"offsets": [
 				-40,
-				-60
+				-40
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				50,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing_Down"
+		},
+		{
+			"offsets": [
+				-139,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing_Up"
+		},
+		{
+			"offsets": [
+				-39,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing_Right"
+		},
+		{
+			"offsets": [
+				180,
+				264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				105,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-157,
+				407
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				15,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-34,
+				369
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right_Miss"
+		},
+		{
+			"offsets": [
+				143,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Sing_Left_Flip"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BFPhase3_Perspective_Flipped",
 	"position": [
 		0,
-		350
+		600
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -213,9 +230,9 @@
 		209
 	],
 	"camera_position": [
-		250,
-		-260
+		1300,
+		-900
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 2.5
 }

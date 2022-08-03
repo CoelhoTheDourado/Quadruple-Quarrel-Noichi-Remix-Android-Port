@@ -2,63 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
-				4,
-				-13
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-30,
-				-80
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-69,
-				47
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-68,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
 				7,
-				29
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -69,7 +14,7 @@
 		{
 			"offsets": [
 				-15,
-				-29
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-56,
-				37
+				-36,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-64,
-				32
+				-44,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				17,
-				23
+				15,
+				18
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				40,
-				-2
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				39,
-				95
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -178,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				444,
-				404
+				294,
+				267
 			],
 			"loop": false,
 			"fps": 24,
@@ -190,32 +135,87 @@
 		{
 			"offsets": [
 				-40,
-				-60
+				-40
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				255,
+				-166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NewPhase2Sonic Left"
+		},
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NewPhase2Sonic Down"
+		},
+		{
+			"offsets": [
+				-19,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NewPhase2Sonic Up"
+		},
+		{
+			"offsets": [
+				102,
+				-208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NewPhase2Sonic Right"
+		},
+		{
+			"offsets": [
+				-5,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "NewPhase2Sonic Idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/p2tail",
 	"position": [
-		0,
-		350
+		-50,
+		-50
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "ycr",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
+		0,
+		0,
 		209
 	],
 	"camera_position": [
-		250,
-		-260
+		0,
+		140
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 1
 }

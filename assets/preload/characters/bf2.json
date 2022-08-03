@@ -13,18 +13,7 @@
 		},
 		{
 			"offsets": [
-				4,
-				-13
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-30,
+				-40,
 				-80
 			],
 			"loop": false,
@@ -35,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-69,
-				47
+				1,
+				37
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,19 +35,8 @@
 		},
 		{
 			"offsets": [
-				-68,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				7,
-				29
+				-63,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-15,
+				-25,
 				-29
 			],
 			"loop": false,
@@ -79,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				-56,
+				-6,
 				37
 			],
 			"loop": false,
@@ -90,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				-64,
+				56,
 				32
 			],
 			"loop": false,
@@ -112,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				17,
-				23
+				25,
+				28
 			],
 			"loop": false,
 			"fps": 24,
@@ -134,40 +112,7 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				40,
-				-2
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				39,
-				95
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
+				-50,
 				-16
 			],
 			"loop": false,
@@ -178,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				444,
-				404
+				-6,
+				397
 			],
 			"loop": false,
 			"fps": 24,
@@ -189,7 +134,7 @@
 		},
 		{
 			"offsets": [
-				-40,
+				20,
 				-60
 			],
 			"loop": false,
@@ -197,23 +142,45 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				-56,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				55,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		0,
-		350
+		-1650,
+		100
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,
 		209
 	],
 	"camera_position": [
-		250,
+		-490,
 		-260
 	],
 	"sing_duration": 4,

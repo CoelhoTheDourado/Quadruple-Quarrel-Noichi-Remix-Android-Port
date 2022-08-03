@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				400
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lord x idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				381
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lord x right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				423
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lord x up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				349
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lord x down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				423
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lord x left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lord_Sex",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "piracyx",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		60,
+		95
+	],
+	"camera_position": [
+		-260,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
