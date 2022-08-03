@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animated.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animated0000" x="0" y="0" width="440" height="248"/>
+	<SubTexture name="animated0001" x="440" y="0" width="440" height="248"/>
+	<SubTexture name="animated0002" x="880" y="0" width="440" height="248"/>
+	<SubTexture name="animated0003" x="1320" y="0" width="440" height="248"/>
+	<SubTexture name="animated0004" x="0" y="248" width="440" height="248"/>
+	<SubTexture name="animated0005" x="440" y="248" width="440" height="248"/>
+	<SubTexture name="animated0006" x="880" y="248" width="440" height="248"/>
+	<SubTexture name="animated0007" x="1320" y="248" width="440" height="248"/>
+	<SubTexture name="animated0008" x="0" y="496" width="440" height="248"/>
+	<SubTexture name="animated0009" x="440" y="496" width="440" height="248"/>
+	<SubTexture name="animated0010" x="880" y="496" width="440" height="248"/>
+	<SubTexture name="animated0011" x="1320" y="496" width="440" height="248"/>
+	<SubTexture name="animated0012" x="0" y="744" width="440" height="248"/>
+	<SubTexture name="animated0013" x="440" y="744" width="440" height="248"/>
+	<SubTexture name="animated0014" x="880" y="744" width="440" height="248"/>
+	<SubTexture name="animated0015" x="1320" y="744" width="440" height="248"/>
+	<SubTexture name="animated0016" x="0" y="992" width="440" height="248"/>
+	<SubTexture name="animated0017" x="440" y="992" width="440" height="248"/>
+</TextureAtlas>
